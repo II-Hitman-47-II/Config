@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.0.4",
+  "latestVersion": "1.0.5",
   "minVersion": "1.0.0",
   "forceUpdate": false,
   "updateMessage": {
-    "fr": "🎉 Une nouvelle version est disponible avec des améliorations et corrections de bugs !",
-    "en": "🎉 A new version is available with improvements and bug fixes!",
-    "es": "🎉 ¡Una nueva versión está disponible con mejoras y correcciones de errores!"
+    "fr": "Une nouvelle version est disponible avec des améliorations et corrections de bugs !",
+    "en": "A new version is available with improvements and bug fixes!",
+    "es": "¡Una nueva versión está disponible con mejoras y correcciones de errores!"
   },
   "updateTitle": {
     "fr": "Mise à jour disponible",
@@ -14,24 +14,37 @@
   },
   "releaseNotes": {
     "fr": [
-      "✨ Nouvelle fonctionnalité X",
-      "🐛 Correction du bug Y",
-      "⚡ Amélioration des performances"
+      "✨Améliorations de l'interface",
+      "✅ Amélioration de l'espacement en bas des listes sur Android et iOS pour une meilleure lisibilité",
+      "✅Correction du centrage du texte \"Sélectionner un employeur\" dans l'écran Tickets Restaurant",
+      "✨Corrections de bugs",
+      "✅ Correction du bug où le bouton supprimer des cartes d'horaires ne fonctionnait pas de manière fiable",
+      "✅ Correction du bug de récurrence : les horaires créés en mode récurrence s'affichent désormais correctement dans la liste",
+      "✅ Correction de l'affichage des tickets restaurant : les données ne s'affichent plus lorsque le toggle est désactivé",
+      "✅ Correction du modal de suppression d'employeur : le bouton affiche maintenant \"Supprimer l'employeur\" au lieu de \"Supprimer l'horaire\"",
+      "Améliorations Android",
+      "✅ Les sélecteurs de multiplicateur (jours fériés et dimanches) sont désormais fonctionnels sur Android dans l'écran Nouvel Employeur",
+      "✨Calculs et statistiques",
+      "✅ Amélioration de la précision du calcul du salaire estimé : prise en compte correcte du type d'employeur (NET ou BRUT)",
+      "✅ Optimisation du calculateur de charges sociales avec messages d'erreur plus explicites et sécurisation du champ taux (désactivé automatiquement si brut et net sont remplis)",
+      "✨Nouvelles fonctionnalités",
+      "✅ Ajout d'un mode simplifié au calculateur de taux horaire pour un calcul rapide (montant ÷ heures)",
+      "✅ Ajout du bouton \"Enregistrer quand même\" dans le modal de conflit d'horaires pour plus de flexibilité"
     ],
     "en": [
-      "✨ New feature X",
-      "🐛 Fixed bug Y",
-      "⚡ Performance improvements"
+      "✨ X",
+      "🐛 X",
+      "⚡ X"
     ],
     "es": [
-      "✨ Nueva función X",
-      "🐛 Error corregido Y",
-      "⚡ Mejoras de rendimiento"
+      "✨ X",
+      "🐛 X",
+      "⚡ X"
     ]
   },
   "downloadUrl": {
     "ios": "https://testflight.apple.com/join/YOURCODE",
-    "android": "https://play.google.com/store/apps/details?id=com.votreapp"
+    "android": "https://play.google.com/store/apps/details?id=com.horairetravail.app"
   },
   "lastUpdated": "2026-01-03T12:00:00Z"
 }
