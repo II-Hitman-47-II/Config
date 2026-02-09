@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.6",
+  "latestVersion": "1.0.7",
   "minVersion": "1.0.0",
   "forceUpdate": false,
   "updateMessage": {
@@ -14,23 +14,19 @@
   },
   "releaseNotes": {
     "fr": [
-      "✨Améliorations de l'interface",
-      "✅ Correction du texte \"Modifier le solde\" dans l'écran Tickets Restaurant qui reste en noir en mode sombre",
-      "✅ L'écran d'ajout d'horaire ne respecte pas l'ordre personnalisé des employeurs défini dans l'écran Employeurs",
-      "✅ L'employeur sélectionné par défaut dans l'ajout d'horaire doit toujours être le premier de la liste",
-      "✨Corrections de bugs",
-      "✅ Correction et mise à jour du tutoriel interactif",
-      "✅ Correction d'une erreur de calcul dans l'écran Statistiques",
-      "✅ Correction d'un bug d'affichage avec le clavier sur Android (fond blanc en bas de l'écran)",
-      "✨Améliorations Iphone",
-      "✅ Widget iOS : afficher le prochain horaire à venir au lieu de demain",
-      "✅ Widget iOS : améliorer les mises à jour automatiques",
-      "✨Améliorations Android",
-      "✅ Les sélecteurs de multiplicateur (jours fériés et dimanches) sont désormais fonctionnels sur Android dans l'écran Nouvel Employeur",
-      "✅ Widget Android : améliorer les mises à jour automatiques",
-      "✨Nouvelles fonctionnalités",
-      "✅ Implémenter la sélection multiple d'employeurs dans les filtres de l'écran Statistiques",
-      "✅ Ajout de la fonction frais professionnels."
+      "🔒 Sécurité et Protection des Données (CRITIQUE)",
+      "✅ CORRECTION CRITIQUE : Protection des données personnelles",
+      "📋 Conformité Réglementaire",
+      "✅ Bandeau informatif RGPD ajouté dans l'écran Gestion d'équipe",
+      "✅ Politique de confidentialité mise à jour",
+      "🎨 Améliorations de l'interface Android",
+      "✅ Standardisation des modaux Android 40% fait",
+      "🐛 Corrections de bugs Android",
+      "✅ Correction de l'écran gris après scan QR*",
+      "📱 Améliorations et corrections mineures",
+        "- Plusieurs corrections d'affichage et d'optimisation",
+        "- Améliorations de la stabilité et des performances",
+        "- Corrections mineures d'interface",
     ],
     "en": [
       "✨ X",
