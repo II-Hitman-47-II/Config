@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.7",
+  "latestVersion": "1.0.8",
   "minVersion": "1.0.0",
   "forceUpdate": false,
   "updateMessage": {
@@ -15,14 +15,33 @@
   "releaseNotes": {
     "fr": [
       "🔒 Sécurité et Protection des Données (CRITIQUE)",
-      "✅ CORRECTION CRITIQUE : Protection des données personnelles",
-      "📋 Conformité Réglementaire",
-      "✅ Bandeau informatif RGPD ajouté dans l'écran Gestion d'équipe",
-      "✅ Politique de confidentialité mise à jour",
+      "✅ CORRECTION CRITIQUE - SÉCURITÉ DES DONNÉES - VULNÉRABILITÉ DE SÉCURITÉ CRITIQUE CORRIGÉE",
       "🎨 Améliorations de l'interface Android",
-      "✅ Standardisation des modaux Android 40% fait",
+      "✅ STANDARDISATION GLOBALE - TOUS LES MODALS DE SUCCÈS ANDROID",
+      "✅ CORRECTION - DESIGN MODAL DE SUCCÈS EXPORT/IMPORT",
+      "🎨 Améliorations de l'interface globale",
+      "✅ AMÉLIORATION - MODALS MISE À JOUR STANDARDISÉS",
+      "✅ AMÉLIORATION - QR CODE ET DATE D'EXPIRATION DANS L'HISTORIQUE DES HORAIRES",
+      "✅ NOUVELLE FONCTIONNALITÉ - CALENDRIER D'ÉQUIPE (BETA)",
+      "✅ ABONNEMENT - SYSTÈME MULTI-TIERS PREMIUM",
+      "✅ ABONNEMENT - CORRECTIONS UI ET TEXTES",
+      "✅ ABONNEMENT - STATISTIQUES D'UTILISATION POUR TOUS LES PLANS",
+      "✅ PERFORMANCE - OPTIMISATION CHARGEMENT AU DÉMARRAGE",
+      "✅ UI - COMPTEUR PLANNINGS DANS ADDSCHEDULESCREEN",
+      "🐛 Correction de bugs iOS",
+      "✅ CORRECTION CRITIQUE - COMPATIBILITÉ iOS MANQUANTE",
+      "✅ CORRECTION CRITIQUE - DÉCALAGE D'UN JOUR SUR LES DATES iOS CORRIGÉ",
+      "✅ CORRECTION CRITIQUE - BUG PARTAGE QR CODE iOS CORRIGÉ",
+      "✅ CORRECTION CRITIQUE - EMPLOYÉS NON SAUVEGARDÉS LORS EXPORT/IMPORT iOS CORRIGÉ",
       "🐛 Corrections de bugs Android",
-      "✅ Correction de l'écran gris après scan QR*",
+      "✅ CORRECTION CRITIQUE - DÉCALAGE D'UN JOUR SUR LES DATES ANDROID CORRIGÉ",
+      "✅ CORRECTION - TRADUCTION MANQUANTE \"REQUEST PERMISSION\" ANDROID CORRIGÉE",
+      "✅ CORRECTION CRITIQUE - BUG PARTAGE QR CODE ANDROID CORRIGÉ",
+      "✅ CORRECTION CRITIQUE - EMPLOYÉS NON SAUVEGARDÉS LORS EXPORT/IMPORT ANDROID CORRIGÉ",
+      "🐛 Correction de bugs, base de données.",
+      "✅ CORRECTION - ERREURS FIREBASE PERMISSION & TRANSACTION",
+      "✅ CORRECTION - PERMISSIONS FIREBASE",
+      "✅ CORRECTION CRITIQUE - RÈGLES FIRESTORE",
       "📱 Améliorations et corrections mineures",
         "- Plusieurs corrections d'affichage et d'optimisation",
         "- Améliorations de la stabilité et des performances",
@@ -43,5 +62,5 @@
     "ios": "https://testflight.apple.com/join/YOURCODE",
     "android": "https://play.google.com/store/apps/details?id=com.horairetravail.app"
   },
-  "lastUpdated": "2026-02-09T12:00:00Z"
+  "lastUpdated": "2026-02-10T12:00:00Z"
 }
