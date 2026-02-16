@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.9",
+  "latestVersion": "1.1.1",
   "minVersion": "1.0.0",
   "forceUpdate": false,
   "updateMessage": {
@@ -14,63 +14,23 @@
   },
   "releaseNotes": {
     "fr": [
-      "✨ Navigation par swipe entre les onglets (glisser gauche/droite)",
-      "✨ Menu unique scrollable horizontal (10 onglets en une seule barre)",
-      "✨ Animation d'entrée fluide lors du changement de page",
-      "✨ Sélection multiple de frais rapides dans Ajouter un horaire",
-      "✨ Modèles rapides de frais accessibles depuis Ajouter un horaire",
-      "🎨 Réorganisation des onglets avec modals conservés",
-      "🎨 Amélioration du design de la caméra et du scanner QR",
-      "💰 Nouveau système de types de frais : Dépenses & Revenus",
-      "➕ 4 nouveaux modèles rapides de frais (8 au total)",
-      "🗑️ Bouton de suppression rapide sur les cartes de frais",
-      "🔄 Frais rapides créés uniquement à la validation de l'horaire",
-      "🐛 Correction affichage section frais dans Statistiques (frais négatifs invisibles)",
-      "🐛 Correction doublon de traduction menu Horaires",
-      "🐛 Correction calcul frais amplifiés par les charges sociales",
-      "🐛 Correction ajouts multiples de frais rapides (un seul était sauvegardé)",
-      "📱 Améliorations de la stabilité et des performances"
+      "✨ Réécriture complète du système d'abonnements",
+      "✨ Nouvelle fonctionnalité PREMIUM - Sélecteur de messages SMS professionnels prédéfinis",
+      "✨ Amélioration PREMIUM - Variables enrichies dans les messages SMS",
+      "✨ Amélioration PREMIUM - Nom d'entreprise personnalisable et sauvegardé",
+      "✨ Amélioration - Gestion complète des documents d'employé",
+      "🐛 Correction CRITIQUE - Perte des photos lors de l'export/import",
+      "🐛 Correction - Page Abonnement",
+      "🐛 Correction - Inversion Employeur/Congé dans le tutoriel",
     ],
     "en": [
-      "✨ Swipe navigation between tabs (swipe left/right)",
-      "✨ Single scrollable horizontal menu (10 tabs in one bar)",
-      "✨ Smooth entry animation when switching pages",
-      "✨ Multi-select quick expenses in Add Schedule",
-      "✨ Quick expense presets accessible from Add Schedule",
-      "🎨 Tab reorganization with preserved modals",
-      "🎨 Improved camera and QR scanner design",
-      "💰 New expense type system: Expenses & Income",
-      "➕ 4 new quick expense presets (8 total)",
-      "🗑️ Quick delete button on expense cards",
-      "🔄 Quick expenses only created when schedule is saved",
-      "🐛 Fixed expenses section display in Statistics (negative expenses invisible)",
-      "🐛 Fixed translation duplicate in Schedules menu",
-      "🐛 Fixed expenses calculation amplified by social charges",
-      "🐛 Fixed multiple quick expenses only saving the last one",
-      "📱 Stability and performance improvements"
     ],
     "es": [
-      "✨ Navegación por deslizamiento entre pestañas (deslizar izquierda/derecha)",
-      "✨ Menú único desplazable horizontal (10 pestañas en una barra)",
-      "✨ Animación fluida de entrada al cambiar de página",
-      "✨ Selección múltiple de gastos rápidos en Agregar horario",
-      "✨ Modelos rápidos de gastos accesibles desde Agregar horario",
-      "🎨 Reorganización de pestañas con modales conservados",
-      "🎨 Mejora del diseño de la cámara y el escáner QR",
-      "💰 Nuevo sistema de tipos de gastos: Gastos e Ingresos",
-      "➕ 4 nuevos modelos rápidos de gastos (8 en total)",
-      "🗑️ Botón de eliminación rápida en tarjetas de gastos",
-      "🔄 Gastos rápidos solo se crean al guardar el horario",
-      "🐛 Corrección de la sección de gastos en Estadísticas (gastos negativos invisibles)",
-      "🐛 Corrección de duplicado de traducción en menú Horarios",
-      "🐛 Corrección del cálculo de gastos amplificados por cargas sociales",
-      "🐛 Corrección de gastos rápidos múltiples (solo se guardaba el último)",
-      "📱 Mejoras de estabilidad y rendimiento"
     ]
   },
   "downloadUrl": {
     "ios": "https://testflight.apple.com/join/YOURCODE",
     "android": "https://play.google.com/store/apps/details?id=com.horairetravail.app"
   },
-  "lastUpdated": "2026-02-12T12:00:00Z"
+  "lastUpdated": "2026-02-16T12:00:00Z"
 }
